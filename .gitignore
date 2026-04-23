@@ -1,2 +1,14 @@
-# created by virtualenv automatically
-*
+# Virtual env
+.venv/
+
+# PyCharm
+.idea/
+*.iml
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data
+data/
+*.csv
